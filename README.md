@@ -1,4 +1,4 @@
-# SalonCustomerMgt
+# Customer Data Management
 This App assumes that a hair-dressing salon operator wants to collect the contacts of his customers.
 He wants his customers to enter their details on this App so he can always reach out to them.
 His intention is to send them season's greetings, occasional greetings (e.g. birthdays), as well as inform them of special offers.
